@@ -1,5 +1,5 @@
 [package]
-name = "openai-rust"
+name = "gpt-rust"
 version = "0.1.0"
 authors = ["Seiro <irrela@outlook.com>"]
 edition = "2021"
